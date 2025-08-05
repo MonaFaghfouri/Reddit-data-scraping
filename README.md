@@ -21,9 +21,13 @@ Save the Client ID and Client Secret
 
 🔧 2. Set Your Credentials in Code
 In Reddit.ipynb, define your credentials like this:
+
 REDDIT_CLIENT_ID = "your_client_id"
+
 REDDIT_CLIENT_SECRET = "your_client_secret"
+
 REDDIT_USER_AGENT = "your_app_name"
+
 # 📦 Requirements
 Python 3.8+
 
